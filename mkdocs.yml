@@ -1,0 +1,13 @@
+site_name: Qt Documentation
+theme:
+  name: material
+  palette:
+    primary: light green
+extra:
+  alternate:
+    - name: Traditional Chinese (Hong Kong, Macau)
+      lang: zh-Hant
+    - name: Traditional Chinese (Taiwan)
+      lang: zh-TW
+    - name: Simplified Chinese
+      lang: zh
